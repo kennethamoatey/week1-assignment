@@ -9,3 +9,6 @@ nameChange.innerHTML='Change Text'*/
 document.write('hello world')*/
 
 document.getElementById('heading1').innerHTML="kenneth amoatey"
+
+let nameChange =document.getElementsByTagName('h2')[0]
+ nameChange.innerHTML='HELLO WORLD'
