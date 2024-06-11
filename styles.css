@@ -1,0 +1,39 @@
+body{
+    font-family:serif, arial;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    background-color:white;
+    background-image:url('irene-unsplash.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    color:rgb(46, 30, 1);
+}
+
+.topic{
+    font-size: 20px;
+}
+.signIn{
+    border-style:solid;
+    width:500px;
+    height:600px;
+    border-color:grey;
+    border-radius:20px;
+    background-image:url('irene-unsplash.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
+
+}
+
+.name{
+    font-size: 20px;
+}
+.fullname{
+    height:10px;
+    width:20px;
+    border-style:solid;
+    border-color:black;
+}
